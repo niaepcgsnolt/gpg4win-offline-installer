@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Encryption-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Gpg4win Free Installer** — Gpg4win is the official GnuPG distribution for Windows, providing email encryption and file signing using OpenPGP and S/MIME standards. Works without internet access, no account required. Full offline installation.
+**💻 Gpg4win Free Installer** — Gpg4win is the official GnuPG distribution for Windows, providing OpenPGP email encryption, file encryption, and digital signatures. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Gpg4win
 
-Gpg4win is the official GnuPG distribution for Windows, providing email encryption and file signing using OpenPGP and S/MIME standards. Included tools: Kleopatra (certificate manager), GpgOL (Outlook plugin), and GpgEX (shell extension). Widely used for secure email communication, verifying software downloads, and encrypting sensitive files in professional and security-conscious environments.
+Gpg4win is the official GnuPG distribution for Windows, providing OpenPGP email encryption, file encryption, and digital signatures. It includes Kleopatra (certificate manager), GPA (GNU Privacy Assistant), and integrations for Outlook and other email clients.
 
 ---
 
 ## ❌ Problem: Gpg4win is hard to access
 
-- **Complexity** — PGP key management and trust models have significant learning curves
-- **Email Client Dependency** — Full email encryption requires compatible email clients
-- **Key Distribution** — Sharing public keys requires manual exchange or keyserver use
-- **UI Dated** — Interface reflects the technical nature of cryptography tools
+- **Windows Only** — macOS users should use GPG Suite instead
+- **Complex Key Management** — PGP key exchange, trust model, and expiry management confusing for non-technical users
+- **Declining Email Use** — Email encryption adoption remains low making the core use case rare
+- **Interface Complexity** — Multiple integrated components with overlapping functionality
 
 ---
 
@@ -121,7 +121,7 @@ Gpg4win is the official GnuPG distribution for Windows, providing email encrypti
 
 ---
 
-**Gpg4win Free Installer** — Gpg4win is the official GnuPG distribution for Windows, providing email encryption and file signing using OpenPGP and S/MIME standards. Install without internet connection today!
+**Gpg4win Free Installer** — Gpg4win is the official GnuPG distribution for Windows, providing OpenPGP email encryption, file encryption, and digital signatures. Install without internet connection today!
 
 <div align="center">
 
